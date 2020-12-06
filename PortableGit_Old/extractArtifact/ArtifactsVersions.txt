@@ -1,0 +1,307 @@
+#####WEB#####
+IVRRestAPIService.20143.870.0
+B.R.06132020
+Started at 05/22/20 07:45:37
+##### GATING STATUS: Deployable #####
+WorkabilityCustomerPortal.20143.1049.0
+B.R.06132020
+Started at 05/22/20 07:45:37
+##### GATING STATUS: Deployable #####
+WorkAbilityExternalPortal.20143.955.0
+B.R.06132020
+Started at 05/22/20 07:45:38
+##### GATING STATUS: Deployable #####
+Workability.20143.1122.0
+B.R.06132020
+Started at 05/22/20 07:45:38
+##### GATING STATUS: Deployable #####
+ARMS.20143.858.0
+B.R.06132020
+Started at 05/22/20 07:45:39
+##### GATING STATUS: Deployable #####
+BenEngStoredProcPull.20143.854.0
+B.R.06132020
+Started at 05/22/20 07:45:40
+##### GATING STATUS: Deployable #####
+ScriptPageRewrite.20143.844.0
+B.R.06132020
+Started at 05/22/20 07:45:40
+##### GATING STATUS: Deployable #####
+WotesApplication.20143.885.0
+B.R.06132020
+Started at 05/22/20 07:45:41
+##### GATING STATUS: Deployable #####
+ClaimService.20143.835.0
+B.R.06132020
+Started at 05/22/20 07:45:42
+##### GATING STATUS: Deployable #####
+CommunicationsIndexer.20143.821.0
+B.R.06132020
+Started at 05/22/20 07:45:43
+##### GATING STATUS: Deployable #####
+CommunicationsMaintenance.20143.836.0
+B.R.06132020
+Started at 05/22/20 07:45:44
+##### GATING STATUS: Deployable #####
+DQManager_Web.20143.876.0
+B.R.06132020
+Started at 05/22/20 07:45:44
+##### GATING STATUS: Deployable #####
+EchoSignRestAPIService.20143.840.0
+B.R.06132020
+Started at 05/22/20 07:45:43
+##### GATING STATUS: Deployable #####
+GroupInsuranceLandingUI.20143.785.0
+B.R.06132020
+Started at 05/22/20 07:45:45
+##### GATING STATUS: Deployable #####
+MemberService.20143.828.0
+B.R.06132020
+Started at 05/22/20 07:45:47
+##### GATING STATUS: Deployable #####
+TaskService.20143.825.0
+B.R.06132020
+Started at 05/22/20 07:45:47
+##### GATING STATUS: Deployable #####
+THAAPortalService.20143.760.0
+B.R.06132020
+Started at 05/22/20 07:45:46
+##### GATING STATUS: Deployable #####
+UtilityService.20143.827.0
+B.R.06132020
+Started at 05/22/20 07:45:48
+##### GATING STATUS: Deployable #####
+WcpWebService.20143.906.0
+B.R.06132020
+Started at 05/22/20 07:45:46
+##### GATING STATUS: Deployable #####
+WKABApplicationIntegration.20143.842.0
+B.R.06132020
+Started at 05/22/20 07:45:49
+##### GATING STATUS: Deployable #####
+WKABPortalService.20143.878.0
+B.R.06132020
+Started at 05/22/20 07:45:47
+##### GATING STATUS: Deployable #####
+WKABReportingService.20143.857.0
+B.R.06132020
+Started at 05/22/20 07:45:50
+##### GATING STATUS: Deployable #####
+WKABRestLetterService.20143.775.0
+B.R.06132020
+Started at 05/22/20 07:45:50
+##### GATING STATUS: Deployable #####
+WorkAbilityExt.20143.788.0
+B.R.06132020
+Started at 05/22/20 07:45:51
+##### GATING STATUS: Deployable #####
+WorkAbilityExtWebAPI.20143.770.0
+B.R.06132020
+Started at 05/22/20 07:45:51
+##### GATING STATUS: Deployable #####
+WorkAbilityRestAPIService.20143.832.0
+B.R.06132020
+Started at 05/22/20 07:45:52
+##### GATING STATUS: Deployable #####
+WKABTransProcessorService.20143.778.0
+B.R.06132020
+Started at 05/22/20 07:45:52
+##### GATING STATUS: Deployable #####
+WorkabilityTools.20143.937.0
+B.R.06132020
+Started at 05/22/20 07:45:53
+##### GATING STATUS: Deployable #####
+WoteService.20143.819.0
+B.R.06132020
+Started at 05/22/20 07:45:54
+##### GATING STATUS: Deployable #####
+VendorPortalUI.20143.568.0
+B.R.06132020
+Started at 05/22/20 07:45:52
+##### GATING STATUS: Deployable #####
+THAADisClaimRESTService.20143.543.0
+B.R.06132020
+Started at 05/22/20 07:45:53
+##### GATING STATUS: Deployable #####
+THAATMIntegration.20143.528.0
+B.R.06132020
+Started at 05/22/20 07:45:53
+##### GATING STATUS: Deployable #####
+THPATHAAIntegration.20143.422.0
+B.R.06132020
+Started at 05/22/20 07:46:19
+##### GATING STATUS: Deployable #####
+#####APP#####
+AccumulatorEventProcessor.20143.779.0
+B.R.06132020
+Started at 05/22/20 07:45:55
+##### GATING STATUS: Deployable #####
+AlertNotificationBatchJob.20143.777.0
+B.R.06132020
+Started at 05/22/20 07:45:56
+##### GATING STATUS: Deployable #####
+AppointmentReminderBatchJob.20143.773.0
+B.R.06132020
+Started at 05/22/20 07:45:56
+##### GATING STATUS: Deployable #####
+AutoSetParmsBatch.20143.769.0
+B.R.06132020
+Started at 05/22/20 07:45:57
+##### GATING STATUS: Deployable #####
+BenEngineLockingPayments.20143.772.0
+B.R.06132020
+Started at 05/22/20 07:45:57
+##### GATING STATUS: Deployable #####
+ComModeUpdateBatch.20143.770.0
+B.R.06132020
+Started at 05/22/20 07:45:58
+##### GATING STATUS: Deployable #####
+CommonBackgroundProcess.20143.792.0
+B.R.06132020
+Started at 05/22/20 07:45:59
+##### GATING STATUS: Deployable #####
+DisabilityAutoAdjudication.20143.773.0
+B.R.06132020
+Started at 05/22/20 07:46:00
+##### GATING STATUS: Deployable #####
+EligibilityVerification.20143.763.0
+B.R.06132020
+Started at 05/22/20 07:46:01
+##### GATING STATUS: Deployable #####
+HIGGoLiveDateBatch.20143.763.0
+B.R.06132020
+Started at 05/22/20 07:46:02
+##### GATING STATUS: Deployable #####
+LTDClaimsLoadBalancer.20143.769.0
+B.R.06132020
+Started at 05/22/20 07:46:02
+##### GATING STATUS: Deployable #####
+MemberEnrollmentProcessor.20143.763.0
+B.R.06132020
+Started at 05/22/20 07:46:03
+##### GATING STATUS: Deployable #####
+MonitorFileUpload.20143.766.0
+B.R.06132020
+Started at 05/22/20 07:46:03
+##### GATING STATUS: Deployable #####
+PlanMaintNotificationBatch.20143.766.0
+B.R.06132020
+Started at 05/22/20 07:46:03
+##### GATING STATUS: Deployable #####
+PRPacketCreator.20143.766.0
+B.R.06132020
+Started at 05/22/20 07:46:04
+##### GATING STATUS: Deployable #####
+QueueListener.20143.776.0
+B.R.06132020
+Started at 05/22/20 07:46:05
+##### GATING STATUS: Deployable #####
+ScheduledRestAPIEventProcessor.20143.809.0
+B.R.06132020
+Started at 05/22/20 07:46:05
+##### GATING STATUS: Deployable #####
+ScheduledTaskToQueueProcessors.20143.770.0
+B.R.06132020
+Started at 05/22/20 07:46:06
+##### GATING STATUS: Deployable #####
+SendEmailBatchJob.20143.765.0
+B.R.06132020
+Started at 05/22/20 07:46:06
+##### GATING STATUS: Deployable #####
+StageCCICompanyData.20143.766.0
+B.R.06132020
+Started at 05/22/20 07:46:07
+##### GATING STATUS: Deployable #####
+StagedMessageProcessor.20143.764.0
+B.R.06132020
+Started at 05/22/20 07:46:08
+##### GATING STATUS: Deployable #####
+STDFSMLoadBalancer.20143.770.0
+B.R.06132020
+Started at 05/22/20 07:46:08
+##### GATING STATUS: Deployable #####
+SuspendedPaymentsBatchJob.20143.763.0
+B.R.06132020
+Started at 05/22/20 07:46:08
+##### GATING STATUS: Deployable #####
+TaskStagingService.20143.829.0
+B.R.06132020
+Started at 05/22/20 07:46:10
+##### GATING STATUS: Deployable #####
+TriggerForTextMessagingJob.20143.775.0
+B.R.06132020
+Started at 05/22/20 07:46:10
+##### GATING STATUS: Deployable #####
+UnStructuredDataMigrator.20143.742.0
+B.R.06132020
+Started at 05/22/20 07:46:10
+##### GATING STATUS: Deployable #####
+UpdateFICALDW.20143.765.0
+B.R.06132020
+Started at 05/22/20 07:46:11
+##### GATING STATUS: Deployable #####
+UserUploadedFilesBatchJob.20143.765.0
+B.R.06132020
+Started at 05/22/20 07:46:11
+##### GATING STATUS: Deployable #####
+VendorPortalDocumentUploadBatch.20143.768.0
+B.R.06132020
+Started at 05/22/20 07:46:12
+##### GATING STATUS: Deployable #####
+TaxFileTransferSvc.20143.772.0
+B.R.06132020
+Started at 05/22/20 07:46:13
+##### GATING STATUS: Deployable #####
+WkabBatchPrint.20143.787.0
+B.R.06132020
+Started at 05/22/20 07:46:13
+##### GATING STATUS: Deployable #####
+WkabEchoSignSvc.20143.757.0
+B.R.06132020
+Started at 05/22/20 07:46:14
+##### GATING STATUS: Deployable #####
+WKABFaxStatusRequestor.20143.761.0
+B.R.06132020
+Started at 05/22/20 07:46:15
+##### GATING STATUS: Deployable #####
+WKABMonitoringService.20143.759.0
+B.R.06132020
+Started at 05/22/20 07:46:16
+##### GATING STATUS: Deployable #####
+WKABQueueProcessor.20143.821.0
+B.R.06132020
+Started at 05/22/20 07:46:17
+##### GATING STATUS: Deployable #####
+WKABReportsAutoAssignment.20143.763.0
+B.R.06132020
+Started at 05/22/20 07:46:16
+##### GATING STATUS: Deployable #####
+ReportScheduler.20143.796.0
+B.R.06132020
+Started at 05/22/20 07:46:17
+##### GATING STATUS: Deployable #####
+WKABTaskProcessor.20143.831.0
+B.R.06132020
+Started at 05/22/20 07:46:18
+##### GATING STATUS: Deployable #####
+CaseContactEmailProcess.20143.673.0
+B.R.06132020
+Started at 05/22/20 07:46:17
+##### GATING STATUS: Deployable #####
+CMTHAAIntgProcessor.20143.542.0
+B.R.06132020
+Started at 05/22/20 07:46:18
+##### GATING STATUS: Deployable #####
+OnlineStatusQueueProcessor.20143.617.0
+B.R.06132020
+Started at 05/22/20 08:31:56
+##### GATING STATUS: Deployable #####
+MUDIProcessor.20143.622.0
+B.R.06132020
+Started at 05/22/20 07:46:20
+##### GATING STATUS: Deployable #####
+TriggerForTextMessagingResponseJob.20143.261.0
+B.R.06132020
+Started at 05/22/20 07:56:24
+##### GATING STATUS: Deployable #####
+#####ReTry#####
