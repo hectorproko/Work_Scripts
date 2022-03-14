@@ -1,0 +1,1 @@
+[[Schedule Job logs]] This script will accept a job "name" and it will look at properties, to find path of config file and extract log path or even open it in notepad.

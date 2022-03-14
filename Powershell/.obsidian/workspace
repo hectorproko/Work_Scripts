@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "551fd8a791086401",
+    "type": "split",
+    "children": [
+      {
+        "id": "8953667e55d47dc9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Powershell/Create Pool.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7864fecebff4a7a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b1581b19de5ba55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "110f52af94235663",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4597ef51a9b7a16e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "498fb8f46cab127c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe4a514b6393017d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ddf78398b04157c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Powershell/Create Pool.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8953667e55d47dc9",
+  "lastOpenFiles": [
+    "Powershell/Create Pool.md",
+    "Powershell/Export Task.md",
+    "Powershell/Function.md",
+    "Powershell/Get Features.md",
+    "Powershell/Import Certifcations.md",
+    "Powershell/Import Task.md",
+    "Powershell/List to var.md",
+    "Powershell/Recycle App Pools.md",
+    "Powershell/Remote Server Explorer.md",
+    "Powershell/Prod Log.md"
+  ]
+}
